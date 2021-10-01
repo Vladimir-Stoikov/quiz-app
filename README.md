@@ -1,1 +1,3 @@
-# quiz-app
+# Quiz App
+## Learning project
+### HTML CSS JS
